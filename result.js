@@ -9,4 +9,4 @@ try {
   pgPath = path.dirname(require.resolve('pg.js'))
 }
 
-module.exports = require(path.join(pgPath, result.js'))
+module.exports = require(path.join(pgPath, 'result.js))
